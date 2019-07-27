@@ -21,7 +21,7 @@ public class MachineController {
 	
 	@Autowired
 	MachineServiceImpl machineServiceImpl;
-	
+	//Return one user
 	@GetMapping(value="/machineuser/{id}",produces = { MediaType.APPLICATION_JSON_VALUE })
 	public ResponseEntity<Usuario> getMachine(@PathVariable ("id") long id ){
 		
