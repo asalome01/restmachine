@@ -13,7 +13,7 @@
 	<version>1</version>
 	<packaging>war</packaging>
 	<name>machineRest</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot generando WAR</description>
 
 	<properties>
 		<java.version>1.8</java.version>
