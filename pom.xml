@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ti.ele</groupId>
 	<artifactId>machineRest</artifactId>
-	<version>1.1</version>
+	<version>1.2</version>
 	<packaging>war</packaging>
 	<name>machineRest</name>
 	<description>Demo project for Spring Boot generando WAR</description>
