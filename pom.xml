@@ -66,8 +66,7 @@
 
 <repositories>
     <repository>
-      <id>repo/oracle</id>
-      <name>oracleojdbc6</name>
+
       <url>http://www.datanucleus.org/downloads/maven2/</url>
     </repository>
   
